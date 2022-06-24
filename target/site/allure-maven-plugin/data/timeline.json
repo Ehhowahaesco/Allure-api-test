@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-5CUALGQ",
+    "children" : [ {
+      "name" : "20712@DESKTOP-5CUALGQ.main(1)",
+      "children" : [ {
+        "name" : ": Sent request for getting articles #2",
+        "uid" : "e3b34dd80c565da9",
+        "parentUid" : "469c3321d2027e7ba676333d000fd96d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656069564825,
+          "stop" : 1656069566918,
+          "duration" : 2093
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : ": Sent request for getting articles #1",
+        "uid" : "48cd7223a07471c",
+        "parentUid" : "469c3321d2027e7ba676333d000fd96d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656069552800,
+          "stop" : 1656069564445,
+          "duration" : 11645
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : ": Sent request for getting articles #3",
+        "uid" : "6d79383097beb8d9",
+        "parentUid" : "469c3321d2027e7ba676333d000fd96d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1656069566940,
+          "stop" : 1656069568461,
+          "duration" : 1521
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "469c3321d2027e7ba676333d000fd96d"
+    } ],
+    "uid" : "d37df3e624b96d630a2902f41d666d1f"
+  } ]
+}

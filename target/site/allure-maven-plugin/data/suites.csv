@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jun 24 14:19:24 MSK 2022","Fri Jun 24 14:19:26 MSK 2022","2093","","","","","",": Sent request for getting articles #2",""
+"passed","Fri Jun 24 14:19:26 MSK 2022","Fri Jun 24 14:19:28 MSK 2022","1521","","","","","",": Sent request for getting articles #3",""
+"passed","Fri Jun 24 14:19:12 MSK 2022","Fri Jun 24 14:19:24 MSK 2022","11645","","","","","",": Sent request for getting articles #1",""

@@ -1,0 +1,44 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : ": Sent request for getting articles #1",
+    "uid" : "48cd7223a07471c",
+    "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
+    "status" : "passed",
+    "time" : {
+      "start" : 1656069552800,
+      "stop" : 1656069564445,
+      "duration" : 11645
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : ": Sent request for getting articles #2",
+    "uid" : "e3b34dd80c565da9",
+    "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
+    "status" : "passed",
+    "time" : {
+      "start" : 1656069564825,
+      "stop" : 1656069566918,
+      "duration" : 2093
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : ": Sent request for getting articles #3",
+    "uid" : "6d79383097beb8d9",
+    "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
+    "status" : "passed",
+    "time" : {
+      "start" : 1656069566940,
+      "stop" : 1656069568461,
+      "duration" : 1521
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}
